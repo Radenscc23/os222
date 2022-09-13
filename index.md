@@ -1,15 +1,15 @@
 # OS 222
-========
-Hey, whats up? Im Raden from class A. Do You feel alone?.
-You can see my OS Repo right here. Feel free to look.
+===
+Hey, whats up? Im Raden from class A.
+===
 
 ## LINKS
 ***
 
-[My Repo](https://github.com/Radenscc23/os222)
-[My Log](https://github.com/Radenscc23/os222/blob/master/TXT/mylog.txt)
+* [My Repo](https://github.com/Radenscc23/os222)
+* [My Log](https://github.com/Radenscc23/os222/blob/master/TXT/mylog.txt)
 
 ***
 
-Feel free to look
+Feel free to look uWu 
  
