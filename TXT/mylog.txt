@@ -23,3 +23,6 @@ ZCZC W01 5 LO5 Quiz Related
 ZCZC W01 30 L06 Reading resources and watch videos from week 01 assignment links
 ZCZC W01 120 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W01 100 L11 Assignment #01
+ZCZC W01 180 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W01 80 L11 Assignment #01
+ZCZC W01 30 L03 GitHub and git related, including commit, push, pull
