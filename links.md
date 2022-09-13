@@ -1,5 +1,5 @@
 ---
-permalinks: LINKS/
+permalink: /LINKS/
 ---
 
 1. [AWK Tutorialspoint](https://www.tutorialspoint.com/awk/index.htmi)
