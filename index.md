@@ -6,9 +6,9 @@ Hey, whats up? Im Raden from class A. Welcome to my Page
 ## LINKS
 
 ---
-* [My Repo](https://github.com/Radenscc23/os222)
-* [My Log]({{ site.baseurl }}{{ site.myloglink }}) ---
-* [My Links]({{site.baseurl }}/LINKS/) ---
+* [My Repo](https://github.com/Radenscc23/os222) ---
+* [My Log](TXT/mylog.txt) ---
+* [My Links](https://Radenscc23.github.io/os222/LINKS/) ---
 
 ---
 
