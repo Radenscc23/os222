@@ -38,3 +38,4 @@ ZCZC W02 29 L06 Reading resources and watch videos from week 02 assignment links
 ZCZC W02 4 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 8 L01 SCELE/Discord Related
 ZCZC W02 10 L12 Assignment #02 done
+ZCZC W02 5 L41 TXT/mylog.txt related.
