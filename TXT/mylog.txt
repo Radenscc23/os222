@@ -26,3 +26,15 @@ ZCZC W01 100 L11 Assignment #01
 ZCZC W01 180 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W01 80 L11 Assignment #01
 ZCZC W01 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W02 100 L02 Zoom Meetings Related
+ZCZC W02 100 L02 Zoom Meetings Related #2
+ZCZC W02 30 L09 Reading Assignments
+ZCZC W02 5 LO5 Quiz Related 
+ZCZC W02 15 L12 Assignment #02
+ZCZC W02 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W02 15 L03 GitHub and git related, including commit, push, pull
+ZCZC W02 2 L01 Asking Mr.Rahmat about myrank.txt
+ZCZC W02 29 L06 Reading resources and watch videos from week 02 assignment links
+ZCZC W02 4 L03 GitHub and git related, including commit, push, pull
+ZCZC W02 8 L01 SCELE/Discord Related
+ZCZC W02 10 L12 Assignment #02 done
