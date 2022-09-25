@@ -26,13 +26,10 @@ ZCZC W01 100 L11 Assignment #01
 ZCZC W01 180 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W01 80 L11 Assignment #01
 ZCZC W01 30 L03 GitHub and git related, including commit, push, pull
-<<<<<<< HEAD
-
-=======
 ZCZC W02 100 L02 Zoom Meetings Related
 ZCZC W02 100 L02 Zoom Meetings Related #2
 ZCZC W02 30 L09 Reading Assignments
-ZCZC W02 5 LO5 Quiz Related 
+ZCZC W02 5 L05 Quiz Related 
 ZCZC W02 15 L12 Assignment #02
 ZCZC W02 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 15 L03 GitHub and git related, including commit, push, pull
@@ -42,4 +39,10 @@ ZCZC W02 4 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 8 L01 SCELE/Discord Related
 ZCZC W02 10 L12 Assignment #02 done
 ZCZC W02 5 L41 TXT/mylog.txt related.
->>>>>>> 47bcd147e7df4afded0466da4303f96fe9ac95fb
+ZCZC W03 100 L02 Zoom Meetings Related #2
+ZCZC W03 100 L00 First Offline Class
+ZCZC W03 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 3 L05 Quiz Related
+ZCZC W03 20 L13 Assignment #03
+ZCZC W03 30 L09 Reading Assignments
+ZCZC W03 15 L03 GitHub and git related, including commit, push, pull
