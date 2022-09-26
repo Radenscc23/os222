@@ -21,3 +21,13 @@ Tentunya ini sangat berguna bagi saya
 * Untuk visualisasi, saya merekomendasikan link ini
 3. [C Language Family Friendly](https://www.petanikode.com/tutorial/c/)
 * Link ini memandu pemula karena dalam bentuk bahasa indonesia sehingga lebih cepat untuk dipahami
+
+### WEEK 03
+1. [FUSE - The Linux Kernel](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)
+* Link ini saya rekomendasikan untuk orang awam yang ingin belajar lebih lanjut tentang FUSE
+* Terdapat penjelasan pada sisi kernel
+2. [Tutorial FUSE pada Linux](https://www.youtube.com/watch?v=Utkwg9Mwtsg)
+* Video ini bermanfaat untuk orang yang ingin belajar FUSE melalui video
+* Video berisi demo-demo untuk menambah resource lebih banyak
+3. [GeeksForGeeks Linux File Management](https://www.geeksforgeeks.org/file-management-in-linux/)
+* Link ini saya rekomendasikan untuk mahasiswa ilmu komputer yang ingin belajar basic tentang file management pada Linux
