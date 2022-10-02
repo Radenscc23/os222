@@ -31,3 +31,9 @@ Tentunya ini sangat berguna bagi saya
 * Video berisi demo-demo untuk menambah resource lebih banyak
 3. [GeeksForGeeks Linux File Management](https://www.geeksforgeeks.org/file-management-in-linux/)
 * Link ini saya rekomendasikan untuk mahasiswa ilmu komputer yang ingin belajar basic tentang file management pada Linux
+
+### WEEK 04
+1. [Dynamic Memory in C](https://www.geesforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
+* Link ini memberikan ide untukmenggunakan method dalam pengaksesan memory
+2. [What is memory mapping in Linux](https://ostoday.org/linux/what-is-memory-mapping-in-linux.html)
+* Link ini memberikan penetahuan baru tentang memory mapping lebih mendalam daripada link sebelumnya
