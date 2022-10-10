@@ -56,3 +56,9 @@ ZCZC W04 3 L05 Quiz Reladted #2
 ZCZC W04 10 L12 Assignment #04 done
 ZCZC W04 3 L03 Github and git related, including commit, push, pull
 ZCZC W04 20 L09 Reading Assignments
+ZCZC W05 100 L02 Zoom Meeting Related
+ZCZC W05 100 L00 Offline Class
+ZCZC W05 3 L05 Quiz Related
+ZCZC W05 10 L13 Assignment #05 done
+ZCZC W05 20 L09 Reading Assignments
+ZCZC W05 3 L03 Github and git related, including commit, push, pull
