@@ -37,3 +37,13 @@ Tentunya ini sangat berguna bagi saya
 * Link ini memberikan ide untukmenggunakan method dalam pengaksesan memory
 2. [What is memory mapping in Linux](https://ostoday.org/linux/what-is-memory-mapping-in-linux.html)
 * Link ini memberikan penetahuan baru tentang memory mapping lebih mendalam daripada link sebelumnya
+
+### WEEK 05
+1. [Linux Virtual Memory](https://www.thegeekstuff.com/2012/02/linux-memory-management/)
+* Link ini akan membawa pelajar awam untuk mempelajari mengenai memory dan demang paging
+* Pengantar dalam bahasa inggris, namun mudah dipahami
+2. [Linux Virtual Memory Algorithm](http://www.science.unitn.it/~fiorella/guidelinux/tlk/node33.html)
+* Link ini akan mengajari pembaca mengenai algoritma yang digunakan dalam virtual memory
+3. [Memory Allocation](https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html)
+* Link untuk pembelajaran C dalam level intermediate
+* Mengajarkan secara singkat tentang memory allocation
