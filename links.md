@@ -47,3 +47,9 @@ Tentunya ini sangat berguna bagi saya
 3. [Memory Allocation](https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html)
 * Link untuk pembelajaran C dalam level intermediate
 * Mengajarkan secara singkat tentang memory allocation
+
+### WEEK 06
+1. [How to Running Processes in Linux](https://www.hostinger.com/tutorials/vps/how-to-manage-processes-in-linux-using-command-line)
+* Link ini akan mengajari mengenai cara menjalankan suatu proses yang ada pada os linux.
+2. [Multithreading and Concurrency Fundamentals](https://www.educative.io/blog/multithreading-and-concurrency-fundamentals)
+* LInk ini cukup mudah dipahami terutama bagi orang awam
