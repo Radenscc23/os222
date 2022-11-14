@@ -53,3 +53,10 @@ Tentunya ini sangat berguna bagi saya
 * Link ini akan mengajari mengenai cara menjalankan suatu proses yang ada pada os linux.
 2. [Multithreading and Concurrency Fundamentals](https://www.educative.io/blog/multithreading-and-concurrency-fundamentals)
 * LInk ini cukup mudah dipahami terutama bagi orang awam
+
+### WEEK 07
+1. [Process Synchronizationi](https://www.tutorialspoint.com/process-synchronization-in-linux)
+* Link sangat berguna untuk penjelasan sinkronisasi linux
+* Link menjelaskan secara visualisasi
+2. [Semaphore in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)
+* Link menjelaskan dengan kode yang didemonstrasikan

@@ -68,3 +68,9 @@ ZCZC W06 100 L05 Offline Class
 ZCZC W06 10 L13 Assignment #06 done
 ZCZC W06 20 L03 Github and git related, including commit, push, pull
 ZCZC W06 5 L03 Github and git related, including commit, push, pull
+ZCZC W07 100 L02 Zoom Meeting Related
+ZCZC W07 100 L05 Offline Class
+ZCZC W07 3 L05 Quiz Related
+ZCZC W07 5 L05 Quiz Related
+ZCZC W07 30 L03 Github and git related, including commit, push, pull
+ZCZC W07 20 L13 Assignment 7 Done

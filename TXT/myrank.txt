@@ -14,3 +14,6 @@ ZCZC W05 marcellinuselbert
 ZCZC W06 AdyatmaWAN
 ZCZC W06 OSIbni
 ZCZC W06 hizkiagtg
+ZCZC W07 OSIbni
+ZCZC W07 AdyatmaWAN
+ZCZC W07 marcellinuselbert
