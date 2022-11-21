@@ -60,3 +60,9 @@ Tentunya ini sangat berguna bagi saya
 * Link menjelaskan secara visualisasi
 2. [Semaphore in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)
 * Link menjelaskan dengan kode yang didemonstrasikan
+
+### WEEK 08
+1. [CPU Scheduling](https://www.studytonight.com/operating-system/cpu-scheduling)
+* Links ini menjelaskan scheduling yang terdapat pada CPU Komputer. Link ini sangat jelas untuk pemula terutama LFS
+2. [Linux From Scratch - Version 11.0](https://www.linuxfromscratch.org/lfs/view/11.0/)
+* Berisi segala hal terutama panduan mengenai versi terbaru LFS

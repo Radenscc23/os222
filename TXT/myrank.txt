@@ -17,3 +17,6 @@ ZCZC W06 hizkiagtg
 ZCZC W07 OSIbni
 ZCZC W07 AdyatmaWAN
 ZCZC W07 marcellinuselbert
+ZCZC W08 AdyatmaWAN
+ZCZC W08 bonaventuragal
+ZCZC W08 hizkiagtg
