@@ -66,3 +66,11 @@ Tentunya ini sangat berguna bagi saya
 * Links ini menjelaskan scheduling yang terdapat pada CPU Komputer. Link ini sangat jelas untuk pemula terutama LFS
 2. [Linux From Scratch - Version 11.0](https://www.linuxfromscratch.org/lfs/view/11.0/)
 * Berisi segala hal terutama panduan mengenai versi terbaru LFS
+
+### WEEK 09
+1. [Parallel Compiling](https://www.linuxfromscratch.org/hints/downloads/files/parallelcompiling.txt)
+* Link ini menjelaskan bahwa saya dapat mengcompile lebih dari satu file dalam waktu yang bersamaan 
+2. [Semaphores in Operating System](https://www.tutorialspoint.com/semaphores-in-operating-system)
+* Seperti link sebelumnya pada week 8, link ini menjelaskan secara lengkap tentang semaphore
+3. [An Old Game Installation Tutorial](https://www.linuxfromscratch.org/hints/downloads/files/unreal_tournament.txt)
+* Post pada tahun 2004 mengenai masalah saat sang penulis menginstall game dalam komputernya
